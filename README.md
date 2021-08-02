@@ -1,1 +1,2 @@
-# EJAMPLO-carrito-de-compras
+# Con esto estoy aprendiendo un poco... 
+aprendi esto siguiendo un tutorial de youtube de bluuweb
